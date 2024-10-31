@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: y3sei <information@plugmize.jp>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#. Description of the plugin/theme
+msgid "This plug-in can be used to stop the RSS feed delivery in the article unit."
+msgstr "このプラグインは記事単位でRSSフィード配信を停止させることができます。"
+
+#: rss-feed-canceller.php:23
+msgid "RSS Feed Setting"
+msgstr "RSSフィード配信設定"
+
+#: rss-feed-canceller.php:34
+msgid "Not delivered to the feed"
+msgstr "RSS/Atomフィードに配信しない"
